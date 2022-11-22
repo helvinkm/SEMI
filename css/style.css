@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    height:60px;
+    color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.txt{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+#bloc1{
+    height: 500px;
+    width: 500px;  
+    margin-bottom: 50px;
+}
+#bloc2{
+    height:500px;
+    width: 1020px;
+    background-image: url(../img/depannage-informatique-item-6-1024x523.png);
+    margin-top: -198px;
+    margin-left: 500px;
+}
+footer {
+    background-color:black;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    color:red;
+}
